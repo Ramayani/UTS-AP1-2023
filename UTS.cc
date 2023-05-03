@@ -35,7 +35,6 @@ void ketupat(int n) {
 }
 
 int main() {
-    system("clear");
     int angka;
 
     cout << "Masukkan jumlah inputan : ";
